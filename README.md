@@ -1,4 +1,12 @@
-💀
+## About me
+
+- Working as a frontend developer at [GpsGate](https://gpsgate.com 
+- Living in the country side in Sweden
+
+### Links
+- [My personal webpage](https://chichoch.netlify.app/) (Yes, I do like terminals)
+
+
 <!--
 **chichoch/chichoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
