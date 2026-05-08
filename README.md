@@ -1,6 +1,6 @@
 ## About me
 
-- Working as a frontend developer at [GpsGate](https://gpsgate.com 
+- Working as a frontend developer at [GpsGate](https://gpsgate.com)
 - Living in the country side in Sweden
 
 ### Links
